@@ -1,0 +1,16 @@
+Source of Variation, Sum of Squares, Degrees of Freedom, Mean Square, F_0, R Squared, R Squared Adjusted
+Regression,25.6586956521738,9,2.85096618357487,1.4854733621833,0.507001718213057,0.165695215437481
+Error or Residual,24.95,13,1.91923076923077
+Total,50.6086956521739,22
+
+Regressor, Fantasy Statistic, Beta_Value, Lower Double Sided Confidence Interval Bound, Upper Double Sided Confidence Interval Bound, Marginal T-Tests T-Value, T-Value, Reject Null Hypothesis?
+beta_0,Model Intercept,37.49707,0.0557570408293913,74.9383835841706,2.23131790410412,2.228,Reject null hypothesis - variable contributes significantly to the model,
+beta_1,FG%,-60.26316,-117.097056528929,-3.42926488220423,-2.36243389806142,2.228,Reject null hypothesis - variable contributes significantly to the model,
+beta_2,FT%,-12.57259,-37.789864083194,12.6446843346589,-1.11081515027316,2.228,Fail to reject null hypothesis - variable does not contribute significantly to the model,
+beta_3,3PTM,-0.01029084,-0.102918515963596,0.0823368421328484,-0.247528437320733,2.228,Fail to reject null hypothesis - variable does not contribute significantly to the model,
+beta_4,PTS,0.01380524,-0.00426913620392842,0.0318796244398789,1.70175039736075,2.228,Fail to reject null hypothesis - variable does not contribute significantly to the model,
+beta_5,REB,-0.009041114,-0.0471472794978928,0.0290650519399952,-0.528617905251059,2.228,Fail to reject null hypothesis - variable does not contribute significantly to the model,
+beta_6,AST,0.03161028,-0.0128322125734576,0.0760527731241473,1.58469293549914,2.228,Fail to reject null hypothesis - variable does not contribute significantly to the model,
+beta_7,STL,0.06479267,-0.0838181444984525,0.21340348511754,0.97138333866329,2.228,Fail to reject null hypothesis - variable does not contribute significantly to the model,
+beta_8,BLK,0.03154367,-0.0738441738967211,0.136931510615757,0.66686338386291,2.228,Fail to reject null hypothesis - variable does not contribute significantly to the model,
+beta_9,TO,-0.08396507,-0.176894067580635,0.00896392648928782,-2.01308722944013,2.228,Fail to reject null hypothesis - variable does not contribute significantly to the model,
